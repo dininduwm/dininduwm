@@ -1,4 +1,30 @@
-### Hi there 👋
+## Dinindu Thilakarathna
+_Undergraduate, Department of Computer Engineering, University of Peradeniya_
+
+Web: [dinindu.me](https://dinindu.me)
+
+[![Linkedin](https://nuwanjaliyagoda.com/img/ico/linkedin-128.png)](https://www.linkedin.com/in/dinindu-thilakarathna/)
+[![Facebook](https://nuwanjaliyagoda.com/img/ico/facebook-128.png)](https://www.facebook.com/dinidu.udana.9)
+[![Twitter](https://nuwanjaliyagoda.com/img/ico/twitter-36.png)](https://twitter.com/diniduwm)
+[![Hackerrank](https://nuwanjaliyagoda.com/img/ico/hackerrank-128.png)](https://www.hackerrank.com/dtdinidu7)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuwanJ&langs_count=8&layout=compact)](#) -->
+
+
+<!--
+**NuwanJ/NuwanJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 <!--
 **dininduwm/dininduwm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
