@@ -1,7 +1,7 @@
 ## Dinindu Thilakarathna
 _Undergraduate, Department of Computer Engineering, University of Peradeniya_
 
-Web: [dinindu.me](https://dinindu.me)
+Web: [https://dinindu.me](https://dinindu.me)
 
 [![Linkedin](https://nuwanjaliyagoda.com/img/ico/linkedin-128.png)](https://www.linkedin.com/in/dinindu-thilakarathna/)
 [![Facebook](https://nuwanjaliyagoda.com/img/ico/facebook-128.png)](https://www.facebook.com/dinidu.udana.9)
