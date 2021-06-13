@@ -3,10 +3,10 @@ _Undergraduate, Department of Computer Engineering, University of Peradeniya_
 
 Web: [https://dinindu.me](https://dinindu.me)
 
-[![Linkedin](https://nuwanjaliyagoda.com/img/ico/linkedin-128.png)](https://www.linkedin.com/in/dinindu-thilakarathna/)
-[![Facebook](https://nuwanjaliyagoda.com/img/ico/facebook-128.png)](https://www.facebook.com/dinidu.udana.9)
-[![Twitter](https://nuwanjaliyagoda.com/img/ico/twitter-36.png)](https://twitter.com/diniduwm)
-[![Hackerrank](https://nuwanjaliyagoda.com/img/ico/hackerrank-128.png)](https://www.hackerrank.com/dtdinidu7)
+[![Linkedin](https://github.com/dininduwm/dininduwm.github.io/raw/main/assets/img/SocialMedia/linkedin-128.png)](https://www.linkedin.com/in/dinindu-thilakarathna/)
+[![Facebook](https://github.com/dininduwm/dininduwm.github.io/raw/main/assets/img/SocialMedia/facebook-128.png)](https://www.facebook.com/dinidu.udana.9)
+[![Twitter](https://github.com/dininduwm/dininduwm.github.io/raw/main/assets/img/SocialMedia/twitter-128.png)](https://twitter.com/diniduwm)
+[![Hackerrank](https://github.com/dininduwm/dininduwm.github.io/raw/main/assets/img/SocialMedia/hackerrank-128.png)](https://www.hackerrank.com/dtdinidu7)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuwanJ&langs_count=8&layout=compact)](#) -->
 
