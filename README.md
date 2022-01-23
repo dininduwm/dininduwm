@@ -8,23 +8,14 @@ Web: [https://dinindu.me](https://dinindu.me)
 [![Twitter](https://github.com/dininduwm/dininduwm.github.io/raw/main/assets/img/SocialMedia/twitter-128.png)](https://twitter.com/diniduwm)
 [![Hackerrank](https://github.com/dininduwm/dininduwm.github.io/raw/main/assets/img/SocialMedia/hackerrank-128.png)](https://www.hackerrank.com/dtdinidu7)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuwanJ&langs_count=8&layout=compact)](#) -->
+### ⚙️ GitHub Analytics
 
-
-<!--
-**NuwanJ/NuwanJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://github.com/dininduwm">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dininduwm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dininduwm&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!--
 **dininduwm/dininduwm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
